@@ -1,0 +1,142 @@
+*{
+    font-family: system-ui;
+}
+
+/* heading and sub-heading  */
+
+.head{
+    padding-left: 35px;
+    margin-top: 140px;
+
+}
+
+.head1{
+    font-size: 60px;
+
+}
+
+.sub-head{
+    font-size: large;
+    padding-top: 25px;
+}
+
+/* blog boxes */
+
+
+
+.box-layout{
+    width: 60%;
+    /* background-color: blue; */
+    margin-top: 125px;
+    /* border: 2px solid black; */
+    margin-left: 35px;
+    height: 290px;
+}
+
+.box{
+    margin-top: 45px;
+    display: flex;
+}
+
+.img-layout{
+    /* background-color: aquamarine; */
+    width: 30%;
+    /* border: 2px solid black; */
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    height: 230px;
+}
+
+.blog-heading {
+    font-size: 27px;
+    margin-bottom: 15px;
+}
+
+.blog-description{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    
+}
+
+.img1{
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img2{
+    background-image: url(img/img2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img3{
+    background-image: url(img/img3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img4{
+    background-image: url(img/img4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img5{
+    background-image: url(img/img5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img6{
+    background-image: url(img/img6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* side section */
+/* 
+project by section */
+
+.project{
+    width: 400px;
+    background-color: rgb(240 235 244);
+    /* float: right; */
+    padding: 20px;
+    border-radius: 25px;
+    margin-right:35px;
+}
+
+.heading-project {
+    font-size: 25px;
+}
+
+.name {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.bio {
+    margin-top: 5px;
+}
+
+.side-section {
+    float: right;
+}
+
+/* featured-section */
+
+.featured-posts-heading{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.featured-posts-layout{
+    
+    margin-top: 20px;
+    margin-bottom: 5px;
+}

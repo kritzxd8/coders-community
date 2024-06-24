@@ -142,3 +142,10 @@ project by section */
     margin-top: 20px;
     margin-bottom: 5px;
 }
+
+button.featured-posts-layout.project {
+    background: black;
+    color: white;
+    /* margin-right: 35px; */
+    width: -webkit-fill-available;
+}

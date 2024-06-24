@@ -132,6 +132,8 @@ project by section */
 
 .featured-posts-heading{
     font-size: 20px;
+    padding-left: 5px;
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
